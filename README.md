@@ -1,3 +1,4 @@
+ # <p align="center"> Hey There!, I am Abdessamad Naoui </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/samadi307/OpenseaBot" > OpenseaBot </a>
 - 🌱 I’m currently learning `Rust`,`Typescript` and `Build and deploy smart contract solana`
