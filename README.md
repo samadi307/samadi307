@@ -26,5 +26,19 @@
 # <p align="center"> Connect with me </p>
 
 <p align="center">
-  <img width="100" href="https://github.com/samadi307" src="https://user-images.githubusercontent.com/53188622/154062086-77e07b4a-5b41-4dff-8565-ccee9e3fcab2.png">
+  <a href="https://github.com/samadi307">
+  <img height="25" src="https://user-images.githubusercontent.com/53188622/154062086-77e07b4a-5b41-4dff-8565-ccee9e3fcab2.png">
+  </a>
+   <a href="https://facebook.com/samadi307">
+  <img height="25" src="https://user-images.githubusercontent.com/53188622/154062779-22a41925-7a29-4048-9dcb-93fad694f9d9.png">
+  </a>
+   <a href="https://twitter.com/samadi_307">
+  <img height="25" src="https://user-images.githubusercontent.com/53188622/154063092-53e3d4f8-9d9d-47ad-bb05-8f2b76de4105.png">
+  </a>
+   <a href="https://www.instagram.com/samadi307">
+  <img height="25" src="https://user-images.githubusercontent.com/53188622/154063196-5e96d3f2-6aa8-4839-85e7-3f645b4eaf0f.png">
+  </a>
+   <a href="https://www.linkedin.com/in/abdessamad-naoui-b348721b1/">
+  <img height="25" src="https://user-images.githubusercontent.com/53188622/154063367-c82d36ed-d15b-41ff-b151-8167b6fc4831.png">
+  </a>
 </p>
