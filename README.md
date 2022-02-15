@@ -1,7 +1,15 @@
+ <div align="center" dir="auto">
+ 
+ ![dev-working_rounded](https://user-images.githubusercontent.com/53188622/154070060-51b7d945-1087-4a1c-b86d-0e7c4961f5e3.gif)
+
+ </div>
+ 
  # <p align="center"> Hey There!, I am Abdessamad Naoui </p>
 
+- 👨‍💻 I’m currently working as a Full-stack Developer.
 - 🔭 I’m currently working on <a href="https://github.com/samadi307/OpenseaBot" > OpenseaBot </a>
-- 🌱 I’m currently learning `Rust`,`Typescript` and `Build and deploy smart contract solana`
+- 🌱 I’m currently learning `AWS`,`d`,`Rust`,`Typescript` and `build solana dapp`
+- 🏠 I’m currently living at Pisa City , Italy
 
 
 # <p align="center"> My Skill Set </p>
