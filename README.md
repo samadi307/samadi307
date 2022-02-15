@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently working as a Full-stack Developer.
 - 🔭 I’m currently working on <a href="https://github.com/samadi307/OpenseaBot" > OpenseaBot </a>
-- 🌱 I’m currently learning `AWS`,`d`,`Rust`,`Typescript` and `build solana dapp`
+- 🌱 I’m currently learning `Rust`,`Typescript`,`build solana Dapp`,`AWS`
 - 🏠 I’m currently living at Pisa City , Italy
 
 
