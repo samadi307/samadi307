@@ -1,6 +1,6 @@
   
-- 🔭 I’m currently working `Solana Blockchain Game`
-- 🌱 I’m currently learning `Rust`
+- 🔭 I’m currently working on <a href="https://github.com/samadi307/OpenseaBot" > OpenseaBot </a>
+- 🌱 I’m currently learning `Rust` and `Build and deploy smart contract solana`
 
 
 # <p align="center"> My Skill Set </p>
@@ -16,7 +16,7 @@
 <!--<img src="https://user-images.githubusercontent.com/53188622/154057353-700a3cb7-88f7-4ecd-a237-9a0bed41e4b8.png" width="50">-->
 </p>
 
-#<p align="center"> Github Stats </p>
+# <p align="center"> Github Stats </p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samadi307&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
